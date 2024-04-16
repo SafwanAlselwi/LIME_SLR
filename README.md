@@ -1,4 +1,4 @@
-# Model-Agnostic Approaches in XAI for Medical Imaging Analysis: Systematic Literature Review
+# Local Interpretable Model-Agnostic Explanation Approach for Medical Imaging Analysis: A Systematic Literature Review
 
 **Data Availability**
 <br>
