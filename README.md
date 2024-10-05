@@ -2,7 +2,7 @@
 
 ## Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)
 <div align="center">
-    <img src="files/fig_prisma.png" width="700">
+    <img src="files/fig_prisma.png" width="1000">
 </div>
 
 ## The literature review study mapping process
